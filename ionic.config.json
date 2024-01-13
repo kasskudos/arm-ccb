@@ -1,0 +1,8 @@
+{
+  "name": "ARM-CCB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "b0c08608"
+}
